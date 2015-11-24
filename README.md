@@ -1,7 +1,7 @@
 # WaterDropViewDemo
 ---
 
-## This code mimics the effect of the drop of water:
+This code mimics the effect of the drop of water:
 
 ![image](http://7ls0ue.com1.z0.glb.clouddn.com/2015/11/23/water_dropwater_drop_demo8.gif)
 
@@ -19,6 +19,8 @@ WaterDropView *waterDropView = [[WaterDropView alloc] initWithFrame:self.view.bo
 [self.view addSubview:waterDropView];
 [waterDropView play];
 ```
+
+Here's a more deailed tutorial: [click me](http://pandara.xyz/2015/11/24/ios_water_drop/)
 
 ## License
 WaterDropViewDemo is published under MIT License. See the LICENSE file for more.
