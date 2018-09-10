@@ -3,11 +3,11 @@
 
 This code mimics the effect of the drop of water:
 
-![image](http://7ls0ue.com1.z0.glb.clouddn.com/2015/11/23/water_dropwater_drop_demo8.gif)
+![](https://images.pandara.xyz/2015/11/23/water_dropwater_drop_demo8.gif)
 
 And the origin design is from designer Vadim Gromov, here is [Gromov's dribbble](https://dribbble.com/shots/1904130-Fluid-Drop-Loading). The original design is as follows:
 
-![image](http://7ls0ue.com1.z0.glb.clouddn.com/2015/11/23/water_dropwater_drop.gif?imageView2/2/w/400)
+![image](https://images.pandara.xyz/2015/11/23/water_dropwater_drop.gif)
 
 ## How to use the demo?
 
